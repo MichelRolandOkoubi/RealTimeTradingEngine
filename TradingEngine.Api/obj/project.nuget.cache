@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/dhbOB7jUo=",
+  "success": true,
+  "projectFilePath": "D:\\DEVS\\ANTIGRAVITY\\SOFTWARE ENGINEER\\C#\\RealTimeTradingEngine\\TradingEngine.Api\\TradingEngine.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roland.okoubi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\roland.okoubi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
